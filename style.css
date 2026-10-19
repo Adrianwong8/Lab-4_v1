@@ -1,0 +1,40 @@
+body {
+font-family:'Times New Roman';
+background-color: #fffdd0;
+text-align: center;
+padding: 50px;
+} 
+
+
+.container {
+
+background-color:aquamarine;
+padding: 40px;
+border-radius: 15px;
+max-width: 650px;
+margin: auto;
+
+}
+
+h1 { color:rgb(8, 1, 2)
+}
+
+button{ 
+
+padding: 15px;
+margin: 10px;
+    background-color: pink;
+color: white;
+border: none;
+border-radius: 8px;
+
+}
+
+button:hover {
+
+    background-color:green
+}
+
+#result {
+    margin-top: 30px;
+}
